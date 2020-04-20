@@ -1,0 +1,28 @@
+section  {display: block;}
+.cabecera {padding: 14px;
+background-color: #f5f6fa;
+text-align: center;
+font: bold 20px verdana;
+}
+.cabecera li{
+    align-content: center;
+    list-style: none;
+    padding: 5px;2px
+    font: bold 15px verdana
+    border: bold 15px black;
+    display: inline-block;
+    
+}
+h1{ background-color:#dcdde1}
+body{background-color: #f5f6fa}
+h1 {font: bold 24px arial;
+}
+h2{font: bold 14px arial;
+    border: solid 1px #dcdde1f}
+.section h2 {font: bold 25px #f5f6fa;}
+.secciones{
+    font: bold 20px arial;
+}
+aside { display:inline-block;
+font: bold 12px verdana;
+padding:14px}
